@@ -1,5 +1,5 @@
-## zomato_dataset_analysis
-What I Found – SQL Analysis on Zomato Dataset
+# Zomato_dataset_analysis
+What I Found – SQL Analysis on Zomato Dataset  
 This project explores the Zomato restaurant dataset using SQL to extract key insights across various dimensions. Below are the major areas analyzed:
 
 1. Rating Distribution & Trends : 
